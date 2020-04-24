@@ -1,5 +1,8 @@
-const sayHello = (name) => {
-    return 'Hello ' + name;
-};
+console.log('test');
 
-sayHello();
+
+// const sayHello = (name) => {
+//     return 'Hello ' + name;
+// };
+//
+// console.log(sayHello());
